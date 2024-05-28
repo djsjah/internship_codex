@@ -1,0 +1,12 @@
+28.05.2024 21:54 - Error:
+    CustomError: Url must be a string!
+    SystemError: at getHTML (task_2/src/domain/htmlProcessing/htmlProcessingService.js:12:11)
+    at htmlProcessingService (task_2/src/domain/htmlProcessing/htmlProcessingService.js:2:17)
+    at storyService (task_2/src/domain/story/storyService.js:11:22)
+    at main (task_2/main.js:19:27)
+    at task_2/main.js:14:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:218:25)
+    at async ModuleLoader.import (node:internal/modules/esm/loader:329:24)
+    at async loadESM (node:internal/process/esm_loader:28:7)
+    at async handleMainPromise (node:internal/modules/run_main:113:12)
+  

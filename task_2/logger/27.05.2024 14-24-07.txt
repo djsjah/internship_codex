@@ -1,7 +1,0 @@
-27.05.2024 14:24 - Error:
-    CustomError: regex must be a regular expression and html must be a string
-    SystemError: at applyRegexCheck (C:\Users\Богдан\Desktop\Консорцеум Кодекс\Стажировка\task_2\main.js:128:11)
-    at applyRegex (C:\Users\Богдан\Desktop\Консорцеум Кодекс\Стажировка\task_2\main.js:119:3)
-    at main (C:\Users\Богдан\Desktop\Консорцеум Кодекс\Стажировка\task_2\main.js:34:21)
-    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
-  

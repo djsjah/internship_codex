@@ -1,0 +1,8 @@
+28.05.2024 22:00 - Error:
+    CustomError: regex must be a regular expression and str must be a string
+    SystemError: at applyRegexCheck (task_2/src/helpers/regex/regexUtils.js:31:11)
+    at applyRegex (task_2/src/helpers/regex/regexUtils.js:25:3)
+    at storyService (task_2/src/domain/story/storyService.js:13:25)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async main (task_2/main.js:19:21)
+  

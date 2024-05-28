@@ -1,0 +1,15 @@
+{
+  "name": "task_2",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "author": "Bogdan Nozdryakov <st1035@mail.ru> (https://github.com/djsjah)",
+  "main": "main.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "ISC"
+}
